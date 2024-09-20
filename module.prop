@@ -1,6 +1,6 @@
 id=tb-9707f-gsi-fix
 name=TB-9707F GSI Fix
-version=v1
-versionCode=1
+version=v3
+versionCode=3
 author=suiminn, SMART ASW
 description=Enable Adaptive brightness and DT2W on TB-9707F with TrebleDroid based GSI.
