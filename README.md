@@ -17,6 +17,6 @@ https://github.com/suiminn/TB-9707F-GSI-Fix/releases
 
 ## Credit
 
-- [SMARTASW](https://github.com/SMARTASW/LegionY700-GSI-Fix)
+- [SMART ASW](https://github.com/SMARTASW/LegionY700-GSI-Fix)
 - [dla5244](https://xdaforums.com/t/magisk-module-enable-dt2w-for-gsi-rom-zui14-base.4633371/)
 - [Zackptg5](https://github.com/Zackptg5/MMT-Extended)
